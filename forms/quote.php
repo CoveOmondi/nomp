@@ -1,5 +1,4 @@
 <?php
-  ss
   $receiving_email_address = 'contact@example.com';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
