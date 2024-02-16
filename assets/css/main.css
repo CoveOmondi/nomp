@@ -260,7 +260,7 @@ section {
 }
 
 .header .logo h1 {
-  font-size: 12px;
+  font-size: 22px;
   font-weight: 600;
   color: #fff;
   margin-bottom: 0;
@@ -269,6 +269,7 @@ section {
 
 .header .logo h1 span {
   color: var(--color-primary);
+  font-size: 22px;
 }
 
 /*--------------------------------------------------------------
